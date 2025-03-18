@@ -1,4 +1,4 @@
-LEETCODE
+LEETCODE POTD
 
 Approach -> we made a sliding window, where we make our check loop from i to j, and if AND condition does not satisfy we mark bool as false anad break loop , and increament i, if coniditon satisfy then it check for all, if all satisfies, then bool remains true, making j++
 this covers the window
